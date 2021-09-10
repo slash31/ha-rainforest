@@ -1,8 +1,9 @@
 {
   "domain": "rainforest",
   "name": "Rainforest",
-  "documentation": "https://github.com/jrhorrisberger/home-assistant/blob/master/custom_components/rainforest/readme.md",
+  "version": "0.2.3",
+  "documentation": "https://github.com/slash31/ha-rainforest/blob/master/custom_components/rainforest/readme.md",
   "dependencies": [],
-  "codeowners": ["@jrhorrisberger"],
+  "codeowners": ["@slash31"],
   "requirements": []
 }
